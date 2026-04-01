@@ -76,8 +76,6 @@ title('linear convolution');
 
 
 ## RESULT:
-<img width="483" height="161" alt="image" src="https://github.com/user-attachments/assets/c92a91a5-e2d0-4847-a20a-bd022f4fa26c" />
+![WhatsApp Image 2026-04-01 at 23 17 28](https://github.com/user-attachments/assets/af02c5e8-8672-4ce3-9431-0f758f30b4fe)
 
-
-![WhatsApp Image 2026-03-28 at 11 26 56 AM (2)](https://github.com/user-attachments/assets/39750aeb-54c8-45ed-bc4b-f0539e35c8b2)
 
